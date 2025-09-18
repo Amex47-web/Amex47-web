@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web dev projects. 
 - 📫 How to reach me : contact me at - ameyabalange014@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In the mean time I am also interested Philosophy!
+- ⚡ Fun fact: In the mean time I am also interested in Philosophy!
 
 <!---
 Amex47-web/Amex47-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
